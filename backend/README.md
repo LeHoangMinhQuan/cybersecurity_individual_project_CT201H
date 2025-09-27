@@ -6,8 +6,8 @@ Course: CT313H-Web Technologies and Services.
 
 Semester 3, Academic year: 2024-2025.
 
-**Student ID**: B2206008
+**Student ID**: 
 
-**Student Name**: .Le Hoang Minh Quan
+**Student Name**: 
 
 **Class Number**: M01
